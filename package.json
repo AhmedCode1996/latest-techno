@@ -46,12 +46,14 @@
     "eslint-plugin-unicorn": "^56.0.1",
     "globals": "^15.14.0",
     "husky": "^9.1.7",
+    "launch-editor": "^2.10.0",
     "lint-staged": "^15.4.3",
     "node-fetch": "^3.3.2",
     "prettier": "3.5.1",
     "tailwindcss": "^4.0.6",
     "typescript": "~5.7.2",
     "typescript-eslint": "^8.22.0",
+    "unplugin-turbo-console": "^1.11.2",
     "vite": "^6.1.0"
   },
   "lint-staged": {

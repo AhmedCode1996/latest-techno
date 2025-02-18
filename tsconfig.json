@@ -5,6 +5,7 @@
     { "path": "./tsconfig.node.json" }
   ],
   "compilerOptions": {
+    "types": ["unplugin-turbo-console/client"],
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
